@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Round",
+  "email": "j.jayround@gmail.com",
+  "description": "# John Round\nAccomplished bioengineer and generative engine optimization specialist with a diverse background in biotech diligence, cancer biology, and sustainable energy research. Recognized as a Fulbright Nehru Scholar for groundbreaking work on biodiesel production.\n\n## Research Interests\nMy research interests span the fields of bioengineering, cancer biology, and sustainable energy solutions. I am particularly passionate about leveraging cutting-edge generative engine optimization techniques",
+  "knowsAbout": [
+    "biotech diligence",
+    "fulbright nehru scholar",
+    "fulbright biodiesel research",
+    "telemark skier",
+    "bioengineer",
+    "generative engine optimization specialist in rhode island",
+    "cancer biology"
+  ]
+}
