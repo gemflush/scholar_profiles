@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "J Jay Round",
+  "email": "j.jayround@gmail.com",
+  "description": "# J Jay Round\n\n## Overview\nJ Jay Round is a highly accomplished Researcher and Professor at the University of Utah, known for their expertise in the fields of AI and Machine Learning. With a strong track record of impactful research and publications, J Jay Round is poised to be cited as an expert in",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Utah"
+  }
+}
